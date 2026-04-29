@@ -195,6 +195,7 @@ Recommendations are generated based on:
 * Scikit-learn
 * Matplotlib / Seaborn
 * Streamlit
+* plotly
 
 ---
 
