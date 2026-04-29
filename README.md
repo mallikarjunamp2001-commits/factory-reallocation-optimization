@@ -230,9 +230,10 @@ This project transforms logistics operations from **static rule-based decision-m
 
 If deployed, you can access the live application here:
 
-🔗 **Demo Link:** [https://your-streamlit-app-url.streamlit.app]()
+🔗 **Demo Link:** 
+https://mallikarjunamp2001-commits-factory-reallocation-opti-app-v6vuht.streamlit.app/
 
-(Replace this with your actual deployed Streamlit or hosting link)
+
 
 ---
 
