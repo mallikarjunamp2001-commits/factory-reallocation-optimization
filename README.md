@@ -1,10 +1,6 @@
 # factory-reallocation-optimization
 This project is a data-driven decision intelligence system that analyzes factory and shipping operations to optimize product allocation, reduce shipping costs, and improve overall efficiency using machine learning techniques and visualization dashboards.
 
-### Nassau Candy Distributor – Decision Intelligence Project
-
----
-
 ## 📌 Project Overview
 
 This project is a **machine learning-powered decision intelligence system** designed to optimize factory allocation and shipping performance for Nassau Candy Distributor.
